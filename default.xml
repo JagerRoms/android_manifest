@@ -192,6 +192,6 @@
   <project path="system/vold" name="android_system_vold" remote="jager" />
   <project path="system/wlan/ti" name="platform/system/wlan/ti" />
 
-  <project path="vendor/lithium" name="android_vendor_jager" remote="jager" revision="master" />
+  <project path="vendor/jager" name="android_vendor_jager" remote="jager" revision="master" />
 
 </manifest>
